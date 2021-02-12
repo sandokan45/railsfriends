@@ -9,3 +9,5 @@ Test.
 New change.
 
 Another change.
+
+Testing of branching in git.

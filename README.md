@@ -7,3 +7,5 @@ This is my test on Ruby on Rails Frinends List App!
 Test.
 
 New change.
+
+Another change.
